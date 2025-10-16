@@ -1,15 +1,16 @@
 # VizagRealEstate
 
-🌟 Overview
+**Overview**
 An intelligent AI-powered real estate assistant that helps users find properties, analyze market trends, and make informed decisions in Visakhapatnam (Vizag), India. Built with LangChain and powered by free AI models, this agentic system scrapes real-time data and provides personalized property recommendations.
 
-🎯 Key Features
-🤖 AI-Powered Conversations: Natural language queries about properties
-📊 Real-time Market Analysis: Current prices, rental yields, and trends
-🔍 Smart Property Search: Filter by budget, area, and preferences
-💰 Investment Insights: Rental yield analysis and price predictions
-🌐 Web Scraping: Automated data collection from multiple sources
-🆓 Completely Free: Uses Gemini API and open-source models
+
+1. Key Features
+2. AI-Powered Conversations: Natural language queries about properties
+3. Real-time Market Analysis: Current prices, rental yields, and trends
+4. Smart Property Search: Filter by budget, area, and preferences
+5. Investment Insights: Rental yield analysis and price predictions
+6. Web Scraping: Automated data collection from multiple sources
+7. Completely Free: Uses Gemini API and open-source models
 
 Key Features:
 
